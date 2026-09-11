@@ -19,4 +19,7 @@ A structured repository containing various CLI-based applications and text-based
 ## 🛠️ Requirements & Tools
 
 - **Compiler:** GCC / MinGW
-- **Editor:** Sublime Text 
+- **Editor:** Sublime Text
+
+- Author: Shayan
+Created with C language while exploring programming, logic building, and problem-solving.
