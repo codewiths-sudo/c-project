@@ -25,9 +25,3 @@ c-project/
 ├── escape-from-station-x-99/
 ├── rock_paper_scissors/
 └── the-galactic-hacker/
-
-Author
-
-Shayan
-
-Built with C while learning programming, developing problem-solving skills, and exploring software development.
