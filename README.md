@@ -17,11 +17,3 @@ A structured collection of CLI-based applications and text-based games written i
 ---
 
 ## Project Structure
-
-```text
-c-project/
-├── atm-simulator/
-├── console-based-calculator/
-├── escape-from-station-x-99/
-├── rock_paper_scissors/
-└── the-galactic-hacker/
