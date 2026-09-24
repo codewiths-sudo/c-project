@@ -8,17 +8,16 @@ int main() {
     printf("== Console-Based Calculator ==\n");
 
     while (1) { 
-    	
-        printf("\nCalculate press 'c', Quit press 'q': ");
+        printf("\nTo calculate press 'c' or Quit press 'q': ");
         scanf(" %c", &choice);
 
         if (choice == 'q' || choice == 'Q') {
-            printf("Goodbye!\n");
-            break;
-        }
+            printf("Exiting Calculator. Goodbye!\n");
+            break; 
+        } 
 
-        if (choice == 'c' || choice == 'C') {
-            printf("Enter: <num1> <op> <num2>: ");
+        else if (choice == 'c' || choice == 'C') {
+            printf("Enter first number, operator, second number (e.g., 5 + 3): ");
             scanf("%lf %c %lf", &num1, &op, &num2);
 
             switch (op) {
@@ -49,8 +48,9 @@ int main() {
                 default:
                     printf("Invalid operator!\n");
             }
-        } else {
-            printf("Invalid choice! Press 'c' or 'q'.\n");
+        } 
+        else {
+            printf("Invalid choice! Press 'c' to calculate or 'q' to quit.\n");
         }
     }
 
