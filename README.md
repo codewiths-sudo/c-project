@@ -6,14 +6,14 @@ A structured collection of CLI-based applications and text-based games written i
 
 ## Projects
 
-### 🛠️ CLI Tools
+### CLI Tools
 | Project | Description |
 | :--- | :--- |
 | **ATM Simulator** | A simple ATM simulation supporting balance checking, deposits, and withdrawals. |
 | **CLI Diary** | A simple command-line based diary application to save and view personal notes. |
 | **Console Calculator** | A console-based calculator for performing basic arithmetic operations. |
 
-### 🎮 Text-Based Games
+### Text-Based Games
 | Project | Description |
 | :--- | :--- |
 | **Escape From Station X-99** | A sci-fi text-based adventure game set in space. |
