@@ -12,7 +12,7 @@ int main() {
 		if(input == secrate_code) {
 			printf("System Hacked Successfully! Space Station Unlocked!\n");
 		break;
-		} else if (input ==999) {
+		} else if (input == 999) {
 			printf("[CHUCKLE] Glitch detected! Secret code is: %d\n",secrate_code);
 		continue;					
 		} else if (input < secrate_code) {
