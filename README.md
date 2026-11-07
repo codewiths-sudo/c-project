@@ -11,6 +11,7 @@ A structured collection of CLI-based applications and text-based games written i
 | :--- | :--- |
 | **CLI Diary** | A simple command-line based diary application to save and view personal notes. |
 | **Console Calculator** | A console-based calculator for performing basic arithmetic operations. |
+| **Credentials Manager** | A console-based credentials manager save username and password |
 
 ### Text-Based Games
 | Project | Description |
